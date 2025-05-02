@@ -9,7 +9,6 @@ This is a self-hosted Renovate bot runner designed to mirror Dependabot function
 - Creates PRs for outdated dependencies
 - Fully configurable via `renovate-config.js`
 - Can run on a schedule via EventBridge (daily, weekly, etc.)
-- Hosted entirely by you (no GitHub/Dependabot limits)
 
 ## 📦 Project Structure
 
